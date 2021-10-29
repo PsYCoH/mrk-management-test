@@ -147,7 +147,7 @@ body {
   width: 100%;
   background-color: #00387a;
   cursor: default;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
 }
 
 ul li {
