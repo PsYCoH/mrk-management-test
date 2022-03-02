@@ -1,1 +1,1 @@
-# mrk-management-test
+# mrk-investment-test
